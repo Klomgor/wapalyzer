@@ -10,9 +10,9 @@
 
 ---
 
-> This is a community fork of the now removed [wappalyzer](https://web.archive.org/web/20230821034415/https://20230821034415/github.com/wappalyzer/wappalyzer) project, initially developed by [@AliasIO](https://github.com/AliasIO).
+> This is a community fork of the now removed [wappalyzer](https://web.archive.org/web/20230821034415/https://github.com/wappalyzer/wappalyzer) project, initially developed by [@AliasIO](https://github.com/AliasIO).
 > <br />
-> The original author maintains a hosted instanced, availible at [wappalyzer.com](https://www.wappalyzer.com/).
+> The original author maintains a hosted instanced, available at [wappalyzer.com](https://www.wappalyzer.com/).
 
 ## Prerequisites
 
